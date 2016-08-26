@@ -136,6 +136,18 @@ section:last-child {
 	margin-bottom: -2px;
 }
 
+.sectionContent a {
+	color: #444; 
+	font-style: italic;
+	text-decoration: none;
+}
+
+.sectionContent a:hover { 
+	color: #cf8a05;
+	font-style: italic;
+	text-decoration: underline;
+}
+
 
 .sectionContent ul {
 	font-size: 1em;
